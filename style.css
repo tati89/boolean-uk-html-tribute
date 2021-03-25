@@ -1,0 +1,33 @@
+.header {
+  font-family: helvetica;
+}
+
+body {
+  text-align: center;
+  background-color: lightyellow;
+}
+
+p {
+  font-family: garamond;
+  text-align: left;
+  margin: auto;
+  max-width: 500px;
+}
+
+hr {
+  margin: auto;
+  max-width: 600px;
+}
+
+h5 {
+  color: gray;
+}
+
+a {
+  text-decoration: none;
+  color: purple;
+}
+
+h3 {
+  font-family: Garamond;
+}
